@@ -1,0 +1,34 @@
+body {
+  background-color: #A1BBD0;
+}
+
+#store-name {
+  color: #F4E7D7;
+  text-align: center;
+  font-size: 35px;
+  text-decoration: underline;
+  text-decoration-color: #F4A460;
+  font-family: Courier
+}
+
+.individual-pet {
+  text-align: center;
+    /* All Pet Profiles Image Sizes have been set in HTML */
+    /* Profiles look ugly if adjusted again */
+  height: 650px;
+  width: 1250px
+}
+
+h3 {
+  font-size: 35px;
+  font-family: Georgia;
+  color: Black
+}
+
+p {
+  font-size: 17px;
+  font-family: Trebuchet MS;
+  color: #3F4234
+}
+
+/* Font Color 11 https://designschool.canva.com/blog/brand-color-palette/ */
