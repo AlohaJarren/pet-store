@@ -5,7 +5,7 @@ body {
 #store-name {
   color: #F4E7D7;
   text-align: center;
-  font-size: 60px;
+  font-size: 70px;
   text-decoration: underline;
   text-decoration-color: #F4A460;
   font-family: Courier
@@ -16,13 +16,13 @@ body {
     /* All Pet Profiles Image Sizes have been set in HTML */
     /* Profiles look ugly if adjusted again */
   height: 650px;
-  width: 1250px
+  width: 1250px;
 }
 
 h3 {
   font-size: 35px;
   font-family: Georgia;
-  color: Black
+  color: black
 }
 
 p {
